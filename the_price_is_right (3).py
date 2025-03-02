@@ -18,7 +18,7 @@ def get_player_guess():
 
 def main():
     actual_price = random.randint(1, 100)
-    attempts = 5
+    attempts = 10
 
     display_welcome_message()
 
