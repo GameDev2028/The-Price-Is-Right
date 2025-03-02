@@ -2,7 +2,7 @@ import random
 
 def display_welcome_message():
     print("Welcome to The Price Is Right!")
-    print("Guess the price of the item. You have 5 attempts.")
+    print("Guess the price of the item. You have 10 attempts.")
     print("The price is between $1 and $100.")
 
 def get_player_guess():
